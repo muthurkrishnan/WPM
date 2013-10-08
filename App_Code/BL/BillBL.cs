@@ -34,7 +34,7 @@ namespace WPM.BusinessLayer
         {
             return oDL.Update_FAWorkBill(argDt);
         }
-        //update
+        //Update Td
         public void UpdateTDSUpdateToFAService()
         {
             oDL.UpdateTDSUpdateToFAService();
